@@ -1,0 +1,9 @@
+[12-Jun-2025 07:19:25 Africa/Lagos] PHP Fatal error:  Trait "App\Models\HasFactory" not found in /home/payvalue/public_html/cloudbank/app/Models/Document.php on line 7
+[12-Jun-2025 07:20:56 Africa/Lagos] PHP Fatal error:  Trait "App\Models\HasFactory" not found in /home/payvalue/public_html/cloudbank/app/Models/Document.php on line 7
+[12-Jun-2025 07:21:19 Africa/Lagos] PHP Fatal error:  Trait "App\Models\HasFactory" not found in /home/payvalue/public_html/cloudbank/app/Models/Document.php on line 7
+[12-Jun-2025 07:21:43 Africa/Lagos] PHP Fatal error:  Trait "App\Models\HasFactory" not found in /home/payvalue/public_html/cloudbank/app/Models/Document.php on line 7
+[12-Jun-2025 07:22:02 Africa/Lagos] PHP Fatal error:  Trait "App\Models\HasFactory" not found in /home/payvalue/public_html/cloudbank/app/Models/Document.php on line 7
+[12-Jun-2025 07:22:29 Africa/Lagos] PHP Fatal error:  Trait "App\Models\HasFactory" not found in /home/payvalue/public_html/cloudbank/app/Models/Document.php on line 7
+[13-Jun-2025 17:16:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.32. in /home/payvalue/public_html/cloudbank/vendor/composer/platform_check.php on line 24
+[13-Jun-2025 17:17:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.32. in /home/payvalue/public_html/cloudbank/vendor/composer/platform_check.php on line 24
+[13-Jun-2025 17:17:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.32. in /home/payvalue/public_html/cloudbank/vendor/composer/platform_check.php on line 24
